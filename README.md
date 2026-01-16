@@ -4,5 +4,5 @@
   </a>
 </div>
 
-> Hi, my name is **loldog**, i'm a roblox scripter
-> If u want help with some script that you're making just add me as friend on discord :D
+> Hi, my name is **loldog**, i'm a roblox scripter, 
+> if u want help with some script that you're making just add me as friend on discord :D
