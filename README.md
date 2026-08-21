@@ -1,7 +1,9 @@
 #
 <img src="https://kyechan99capsuleloldogmodified.vercel.app/api?type=waving&color=0:818cf8,50:c084fc,100:ff85a1&height=120&section=footer&text=loldog&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 <p align="center">
-CREDITS TO https://github.com/kyechan99 FOR HIS CAPSULERENDER, I MODIFIED A BIT OF IT, ALL CREDITS TO HIM https://github.com/kyechan99
+CREDITS TO <a href="https://github.com/kyechan99">kyechan99</a> FOR HIS CAPSULERENDER, I MODIFIED A BIT OF IT, ALL CREDITS TO HIM.
+
+about me:
 </a>
     <a href="https://github.com/loldo-g">
         <img src="https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github&colorB=555" alt="anubiskun" title="https://github.com/anubiskun" height="30px">
