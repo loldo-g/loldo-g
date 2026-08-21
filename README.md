@@ -17,3 +17,4 @@
 
 #
 <p align="center">Copyright &copy; <a href="https://github.com/loldo-g">loldo-g</a></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,50:c084fc,100:ff85a1&height=120&section=footer&text=loldog&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
