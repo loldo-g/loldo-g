@@ -1,7 +1,8 @@
 #
 <img src="https://kyechan99capsuleloldogmodified.vercel.app/api?type=waving&color=0:818cf8,50:c084fc,100:ff85a1&height=120&section=footer&text=loldog&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 <p align="center">
-CREDITS TO <a href="https://github.com/kyechan99">kyechan99</a> FOR HIS CAPSULERENDER, I MODIFIED A BIT OF IT, ALL CREDITS TO HIM.
+CREDITS TO <a href="https://github.com/kyechan99">kyechan99</a> FOR HIS CAPSULERENDER, I MODIFIED A BIT OF IT, ALL CREDITS OF HIS CAPSULERENDER TO HIM.
+CREDITS TO <a href="https://github.com/yeku">yeku</a> FOR HIS LEGACY PROJECT, I MODIFIED A BIT OF IT, ALL CREDITS OF LEGACY TO HIM.
 
 about me:
 </a>
