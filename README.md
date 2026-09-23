@@ -21,5 +21,14 @@ about me:
       <img height=150 src="https://my-stats-43gk.vercel.app/api?username=loldo-g&rank_icon=percentile&theme=radical&hide=contribs,issues&include_all_commits=true&card_width=150&hide_border=true" />
     </a>
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=loldo-g%2Floldo-g&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=loldo-g/loldo-g&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=loldo-g/loldo-g&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=loldo-g/loldo-g&type=date&legend=top-left" />
+ </picture>
+</a>
 #
 <p align="center">Copyright &copy; <a href="https://github.com/loldo-g">loldo-g</a></p>
